@@ -1,2 +1,2 @@
 # Wipro_talentnext
-Wiprotalentnext  Java Full Stack Training  git repo 
+Wiprotalentnext 4 months  Java Full Stack Training.
